@@ -1,0 +1,3 @@
+C:/Users/Cristian/Documents/GitHub/Com-Protocols/I2C/pico/build/pioasm/CMakeFiles/pioasm.dir
+C:/Users/Cristian/Documents/GitHub/Com-Protocols/I2C/pico/build/pioasm/CMakeFiles/edit_cache.dir
+C:/Users/Cristian/Documents/GitHub/Com-Protocols/I2C/pico/build/pioasm/CMakeFiles/rebuild_cache.dir
