@@ -4,7 +4,7 @@
 
 // I2C slave address
 #define SLAVE_ADDRESS 0x10
-
+//added comment
 // Function that runs on core 1 (heartbeat)
 void core1_entry() {
     // onboard led init
